@@ -10,3 +10,6 @@ Netflix Clone using REACT JS
    
    DEMO WORKING
    -
+
+  ![20200716-095026](https://user-images.githubusercontent.com/54505967/87628771-4dcf5a80-c74f-11ea-9476-c932d1037d67.gif)
+ 

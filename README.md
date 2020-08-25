@@ -6,7 +6,7 @@ Netflix Clone using REACT JS
               2) then surf for the post URL such as TRENDING , TOP RATED , etc ....
               3) here I have also added Bookmark Option where on click on movie we can add to bookmark , by clicking My list you can check your bookmarked movies ..
               
-   check this : https://cocky-joliot-f46c16.netlify.app/ 
+   check this : https://cock-oliot-f46c1.netlify.app/
    
    DEMO WORKING
    -
